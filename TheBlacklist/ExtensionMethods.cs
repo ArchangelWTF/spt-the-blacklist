@@ -8,7 +8,7 @@ public static class ExtensionMethods
     {
         var itemProperties = item.Properties;
 
-        if(itemProperties is null)
+        if (itemProperties is null)
         {
             return false;
         }
