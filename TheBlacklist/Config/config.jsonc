@@ -84,9 +84,159 @@
             "blacklisted": true
         },
         {
-            // Dogtag USEC (Unhinged edition)
+            // Dogtag USEC (Prestige 1)
             "type": "item",
-            "itemId": "6662ea05f6259762c56f3189",
+            "itemId": "6764207f2fa5e32733055c4a",
+            "blacklisted": true
+        },
+        {
+            // Dogtag BEAR (Prestige 1)
+            "type": "item",
+            "itemId": "675dc9d37ae1a8792107ca96",
+            "blacklisted": true
+        },
+        {
+            // Dogtag USEC (Prestige 2)
+            "type": "item",
+            "itemId": "6764202ae307804338014c1a",
+            "blacklisted": true
+        },
+        {
+            // Dogtag BEAR (Prestige 2)
+            "type": "item",
+            "itemId": "675dcb0545b1a2d108011b2b",
+            "blacklisted": true
+        },
+        {
+            // Dogtag USEC (Prestige 3)
+            "type": "item",
+            "itemId": "68418091b5b0c9e4c60f0e7a",
+            "blacklisted": true
+        },
+        {
+            // Dogtag BEAR (Prestige 3)
+            "type": "item",
+            "itemId": "684180bc51bf8645f7067bc8",
+            "blacklisted": true
+        },
+        {
+            // Dogtag BEAR (Prestige 4)
+            "type": "item",
+            "itemId": "684181208d035f60230f63f9",
+            "blacklisted": true
+        },
+        {
+            // Dogtag USEC (Prestige 4)
+            "type": "item",
+            "itemId": "684180ee9b6d80d840042e8a",
+            "blacklisted": true
+        },
+        {
+            // Armband (Prestige 1)
+            "type": "item",
+            "itemId": "67614b542eb91250020f2b86",
+            "blacklisted": true
+        },
+        {
+            // Armband (Prestige 2)
+            "type": "item",
+            "itemId": "67614b6b47c71ea3d40256d7",
+            "blacklisted": true
+        },
+        {
+            // Armband (Prestige 3)
+            "type": "item",
+            "itemId": "6841b2506c1fcc41ed0db319",
+            "blacklisted": true
+        },
+        {
+            // Armband (Prestige 4)
+            "type": "item",
+            "itemId": "6841b3463fcc417de40a6768",
+            "blacklisted": true
+        },
+        {
+            // Poster (Prestige 1)
+            "type": "item",
+            "itemId": "6759bb94b8913ff13e049669",
+            "blacklisted": true
+        },
+        {
+            // Poster (Prestige 2)
+            "type": "item",
+            "itemId": "6759e07e4ff23436160d7fed",
+            "blacklisted": true
+        },
+        {
+            // Poster (Prestige 3)
+            "type": "item",
+            "itemId": "6841b179322db20d190b4b99",
+            "blacklisted": true
+        },
+        {
+            // Poster (Prestige 4)
+            "type": "item",
+            "itemId": "6841b1ff51bf8645f7067bca",
+            "blacklisted": true
+        },
+        {
+            // Origins figure (Prestige 3)
+            "type": "item",
+            "itemId": "6841b6b674a3c16f5e03d653",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth secret extract item 
+            "type": "item",
+            "itemId": "67e183377c6c2011970f3149",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679baa2c61f588ae2b062a24",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679baa4f59b8961f370dd683",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679baa5a59b8961f370dd685",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679baa9091966fe40408f149",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679baace4e9ca6b3d80586b2",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679baae891966fe40408f14c",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679bab714e9ca6b3d80586b4",
+            "blacklisted": true
+        },
+        {
+            // Labyrinth key (Has no price)
+            "type": "item",
+            "itemId": "679bac1d61f588ae2b062a26",
             "blacklisted": true
         }
     ]
