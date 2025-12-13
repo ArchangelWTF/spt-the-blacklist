@@ -72,6 +72,12 @@
             "blacklisted": true
         },
         {
+            // Dogtag USEC (Unhinged edition)
+            "type": "item",
+            "itemId": "6662ea05f6259762c56f3189",
+            "blacklisted": true
+        },
+        {
             // Dogtag USEC
             "type": "item",
             "itemId": "59f32c3b86f77472a31742f0",
