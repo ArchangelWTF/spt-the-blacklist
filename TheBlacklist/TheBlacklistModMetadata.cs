@@ -10,7 +10,7 @@ public record TheBlacklistModMetadata : AbstractModMetadata
     public override string Name { get; init; } = "The Blacklist";
     public override string Author { get; init; } = "Platinum";
     public override List<string>? Contributors { get; init; } = [""];
-    public override Version Version { get; init; } = new("3.0.0");
+    public override Version Version { get; init; } = new("3.0.1");
     public override Range SptVersion { get; init; } = new("~4.0");
     public override List<string>? Incompatibilities { get; init; } = [];
     public override Dictionary<string, Range>? ModDependencies { get; init; } = [];
