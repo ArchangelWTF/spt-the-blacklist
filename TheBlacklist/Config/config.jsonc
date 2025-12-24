@@ -9,6 +9,8 @@
     "enableScarceOffers": false,
     // Adds an extra offer for your current flea market rating bracket. So a new account at level 15 can create 3 offers instead of 2. Default is false. Extra amount is configurable in advancedConfigs.
     "addExtraOfferSlot": false,
+    // Turning this on allows only found in raid items to be sold to the flea, default false
+    "enableFIRFleaSelling": false,
     // Balances the flea price of all ammo types, not just the blacklisted ammo types. Can be useful if you find some ammo prices are unbalanced, this generally makes them very balanced for what they do. Default false.
     "useBalancedPricingForAllAmmo": false,
     // Multiplies the price of all blacklisted items that are now available. Default 1.
@@ -69,6 +71,12 @@
             // Dogtag BEAR (Unhinged edition)
             "type": "item",
             "itemId": "6662e9cda7e0b43baa3d5f76",
+            "blacklisted": true
+        },
+        {
+            // Dogtag USEC (Unhinged edition)
+            "type": "item",
+            "itemId": "6662ea05f6259762c56f3189",
             "blacklisted": true
         },
         {

@@ -287,14 +287,19 @@ public class PostDBLoad(ConfigService configService, DatabaseServer databaseServ
 
     public void UpdateGlobals()
     {
+        var ragfairGlobals = databaseServer.GetTables().Globals.Configuration.RagFair;
+
         if (configService.TheBlacklistConfig.AddExtraOfferSlot)
         {
-            var ragfairGlobals = databaseServer.GetTables().Globals.Configuration.RagFair;
-
             foreach (var maxActiveOfferCount in ragfairGlobals.MaxActiveOfferCount)
             {
                 maxActiveOfferCount.Count += configService.TheBlacklistAdvancedConfig.ExtraOfferSlotsToAdd;
             }
+        }
+
+        if (configService.TheBlacklistConfig.EnableFIRFleaSelling)
+        {
+            ragfairGlobals.IsOnlyFoundInRaidAllowed = true;
         }
     }
 }

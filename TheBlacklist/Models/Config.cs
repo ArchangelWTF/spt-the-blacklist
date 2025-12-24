@@ -37,6 +37,12 @@ public record Config
     public bool AddExtraOfferSlot { get; set; } = false;
 
     /// <summary>
+    /// Turning this on allows only found in raid items to be sold to the flea. Default: false
+    /// </summary>
+    [JsonPropertyName("enableFIRFleaSelling")]
+    public bool EnableFIRFleaSelling { get; set; } = false;
+
+    /// <summary>
     /// Balances flea prices of all ammo types. Useful if ammo prices are unbalanced. Default: false.
     /// </summary>
     [JsonPropertyName("useBalancedPricingForAllAmmo")]
